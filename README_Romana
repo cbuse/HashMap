@@ -1,0 +1,11 @@
+	Analiza
+	
+	Clasa MainClass care face verificarea se ruleaza normal, fara parametri.
+	Se va afisa cuvantul Student urmat de timpul necesar accesarilor(in milisecunde),
+precum si cuvantul LazyStudent urmat de timpul necesar accesarilor(in milisecunde). 
+Se observa ca la  LazyStudent, timpul de accesare este mai mare, intrucat toate
+entry-urile se plaseaza in acelasi bucket(pentru ca functia de hash este constanta).
+
+	Implementare
+	
+	Codul este comentat foarte detaliat.	
